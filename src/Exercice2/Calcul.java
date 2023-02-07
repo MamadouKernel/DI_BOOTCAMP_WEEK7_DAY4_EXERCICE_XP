@@ -1,5 +1,10 @@
 package Exercice2;
 
+
+/*
+*@author Konate-MK
+*/
+
 import java.util.Scanner;
 
 public class Calcul {
