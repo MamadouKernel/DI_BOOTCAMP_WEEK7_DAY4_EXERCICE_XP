@@ -6,6 +6,11 @@ import Exercice4.Person;
 import java.util.Random;
 import java.util.Scanner;
 
+
+/*
+*@author Konate-MK
+*/
+
 public class Main {
     public static void main(String[] args) {
         //Exercice1
