@@ -1,5 +1,8 @@
 package Exercice1;
 
+/*
+*@author Konate-MK
+*/
 public class Cercle {
     private double rayon;
 
@@ -27,3 +30,9 @@ public class Cercle {
         return Math.PI * 2 * rayon;
     }
 }
+
+
+
+/*
+*@author Konate-MK
+*/
